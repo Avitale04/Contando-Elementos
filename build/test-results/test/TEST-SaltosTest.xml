@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SaltosTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-19T19:22:51" hostname="ARG-20227-N" time="0.334">
+  <properties/>
+  <testcase name="LaRanaSaltaEnLaPrimeraHoja" classname="SaltosTest" time="0.324"/>
+  <testcase name="LaRanaSaltaEnLaHoja6" classname="SaltosTest" time="0.002"/>
+  <testcase name="LaRanaSaltaEnLaUltimaHoja" classname="SaltosTest" time="0.003"/>
+  <testcase name="LaRanaNuncaSalta" classname="SaltosTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
