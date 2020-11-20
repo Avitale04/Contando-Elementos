@@ -89,11 +89,6 @@ public class SaltosTest {
         verify(hojaCercana,times(11)).hojaMasCercana(eq(0));
 
     }
-<<<<<<< HEAD
+
     //prueba de branch pasada al master y prueba de merge
-
-
-=======
-    //prueba de branch pasada al master y prueba de reset
->>>>>>> f650e1d449de03d38fb48bd424a89c55a346ee72
 }
